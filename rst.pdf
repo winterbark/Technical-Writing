@@ -1,0 +1,959 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://discordapp.com/oauth2/authorize?client_id=201492375653056512&scope=bot&permissions=8)
+>> /Border [ 0 0 0 ] /Rect [ 125.5216 468.0236 140.5216 480.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Annots [ 4 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://octave.gg/)
+>> /Border [ 0 0 0 ] /Rect [ 396.1929 504.0236 416.2029 516.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 7 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20200228171721+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200228171721+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 6 /First 12 0 R /Last 17 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 765.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Introduction)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 690.0236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Features)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 531.0236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Installation and Requirements)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 6 0 R /XYZ 62.69291 444.0236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Commands)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 555.0236 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (Troubleshooting)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 492.0236 0 ] /Parent 11 0 R /Prev 16 0 R /Title (Licensing)
+>>
+endobj
+18 0 obj
+<<
+/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 10189
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .939431 Tw (Octave is a Discord bot written in Java that provides a music player and other audio related features to) Tj T* 0 Tw .191235 Tw (your Discord server. With Octave you and others can listen to music or audio media simultaneously within) Tj T* 0 Tw (your discord server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Full control of audio, ex\) play, pause, stop, and queuing, volume adjustment.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You and your friends can vote on what to play next) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Octave allows you to search for music within discord and will produce results based on your search.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Octave can provide lyrics for songs that are playing and others.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.266905 Tw (Access to multiple sources for your audio such as YouTube, Spotify, Bandcamp, SoundCloud, or) Tj T* 0 Tw (radio stations.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provides audio adjustment such as bass boosting and filtering.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Installation and Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+BT 1 0 0 1 0 38 Tm -0.045276 Tw 12 TL /F1 10 Tf 0 0 0 rg (To use Octave you will need Discord and you will need to have the Manage Server permission in a discord) Tj T* 0 Tw 1.222339 Tw (channel. Assuming you do have the permission you can add Octave to the server of your choosing by) Tj T* 0 Tw 1.40436 Tw (following this ) Tj 0 0 .501961 rg (link) Tj 0 0 0 rg ( and selecting the server from the drop-down box. After adding Octave to the server,) Tj T* 0 Tw (connect to a voice chat channel and you can begin giving Octave commands from any chat channel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (All commands for Octave us the prefix ) Tj /F3 10 Tf 0 0 0 rg (_) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+1 1 1 rg
+n 0 300 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 282 469.8898 -30 re f*
+1 1 1 rg
+n 0 252 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 234 469.8898 -18 re f*
+1 1 1 rg
+n 0 216 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 198 469.8898 -18 re f*
+1 1 1 rg
+n 0 180 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 162 469.8898 -9 re f*
+1 1 1 rg
+n 0 153 469.8898 -9 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -18 re f*
+1 1 1 rg
+n 0 126 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 96 469.8898 -18 re f*
+1 1 1 rg
+n 0 78 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -18 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 300 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 285 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 52.07588 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 12.70294 0 Td (Name) Tj T* -12.70294 0 Td ET
+Q
+Q
+q
+1 0 0 1 70.07588 285 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 222.9449 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 97.02244 0 Td (Usage) Tj T* -97.02244 0 Td ET
+Q
+Q
+q
+1 0 0 1 305.0208 285 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 158.869 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 54.4295 0 Td (Description) Tj T* -54.4295 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 267 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_help) Tj ( ) Tj ([command]) Tj /F1 10 Tf 0 0 0 rg ( or ) Tj /F3 10 Tf 0 0 0 rg (_help) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Displays the bot's list of commands) Tj T* (or info regarding other commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (play) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 237 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_play) Tj ( ) Tj ([url|YouTube) Tj ( ) Tj (search]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Plays music in a voice channel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (stop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_stop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Stop and clear the music player) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (skip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_skip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Skip the current music track) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (remove) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 183 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_remove) Tj ( ) Tj (\(first|last|all|start..end|#\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remove a song from the queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (move) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_move) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Move the bot to another channel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (shuffle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_shuffle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shuffle the music queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (nowplaying) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_nowplaying) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shows what's currently playing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_queue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Shows the music that's currently) Tj T* (queued) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (restart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_restart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Restart the current song) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (repeat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 63 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_repeat) Tj ( ) Tj (\(song,) Tj ( ) Tj (playlist,) Tj ( ) Tj (none\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Set if the music player should) Tj T* (repeat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (volume) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_volume) Tj ( ) Tj (\(loudness) Tj ( ) Tj (%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set the volume of the music player) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (jump) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_jump) Tj ( ) Tj (\(to|forward|backward\)) Tj ( ) Tj (\(time\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Set the time marker of the music) Tj T* (playback) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 282 m 469.8898 282 l S
+n 0 252 m 469.8898 252 l S
+n 0 234 m 469.8898 234 l S
+n 0 216 m 469.8898 216 l S
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 162 m 469.8898 162 l S
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 96 m 469.8898 96 l S
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 30 m 469.8898 30 l S
+n 64.07588 0 m 64.07588 300 l S
+n 299.0208 0 m 299.0208 300 l S
+n 0 300 m 469.8898 300 l S
+n 0 0 m 0 300 l S
+n 469.8898 0 m 469.8898 300 l S
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Length 3975
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 567.0236 cm
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -42 re f*
+1 1 1 rg
+n 0 78 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -18 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (bass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_bass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Boost the bass of the music) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (radio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 165 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_radio) Tj ( ) Tj (\(station) Tj ( ) Tj (name\)|stop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Stream random songs from some) Tj T* (radio stations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cleanup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_cleanup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Clear songs based on a specific) Tj T* (user, duplicates, or if a user left) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (lyrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 105 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_lyrics) Tj ( ) Tj (\(current|search) Tj ( ) Tj (<) Tj (term) Tj (>) Tj (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Looks up the lyrics of the current) Tj T* (playing song or of a song of your) Tj T* (choice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (filter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (_filter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Apply audio filters to the music) Tj T* (such as speed and pitch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (youtube) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 33 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_youtube) Tj ( ) Tj (\(query...\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Search and see YouTube results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (soundcloud) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.07588 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (_soundcloud) Tj ( ) Tj (\(query...\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 305.0208 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Search and see SoundCloud) Tj T* (results) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 30 m 469.8898 30 l S
+n 64.07588 0 m 64.07588 198 l S
+n 299.0208 0 m 299.0208 198 l S
+n 0 0 m 0 198 l S
+n 469.8898 0 m 469.8898 198 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .076098 Tw 12 TL /F1 10 Tf 0 0 0 rg (Use the command ) Tj /F3 10 Tf 0 0 0 rg (_help) Tj /F1 10 Tf 0 0 0 rg ( followed by any other command will bring up details on how to use the following) Tj T* 0 Tw (command. You can also get support by going to the official Octave website ) Tj 0 0 .501961 rg (here) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Licensing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Octave is an open-source Discord bot and does not requiring any licensing to use.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+21 0 obj
+<<
+/Nums [ 0 22 0 R 1 23 0 R ]
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+23 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000587 00000 n 
+0000000692 00000 n 
+0000000915 00000 n 
+0000001085 00000 n 
+0000001308 00000 n 
+0000001413 00000 n 
+0000001671 00000 n 
+0000001745 00000 n 
+0000001858 00000 n 
+0000001980 00000 n 
+0000002123 00000 n 
+0000002245 00000 n 
+0000002374 00000 n 
+0000002484 00000 n 
+0000002550 00000 n 
+0000012792 00000 n 
+0000016819 00000 n 
+0000016869 00000 n 
+0000016903 00000 n 
+trailer
+<<
+/ID 
+[<7b6c7a09913b41306f35ebdf89d5af9f><7b6c7a09913b41306f35ebdf89d5af9f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 24
+>>
+startxref
+16937
+%%EOF
