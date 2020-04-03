@@ -1,0 +1,93 @@
+**Introduction**
+****************
+Octave is a Discord bot written in Java that provides a music player and other audio related features to your 
+Discord server. With Octave you and others can listen to music or audio media simultaneously within your 
+discord server. 
+
+**Features**
+************
+-	Full control of audio, ex) play, pause, stop, and queuing, volume adjustment. 
+-	You and your friends can vote on what to play next 
+-	Octave allows you to search for music within discord and will produce results based on your search.
+-	Octave can provide lyrics for songs that are playing and others.
+-	Access to multiple sources for your audio such as YouTube, Spotify, Bandcamp, SoundCloud,  or radio stations.
+-	Provides audio adjustment such as bass boosting and filtering. 
+
+**Installation and Requirements**
+*********************************
+To use Octave you will need Discord and you will need to have the Manage Server permission in a discord channel. Assuming you do have the permission you can add Octave to the server of your choosing by following this `link <https://discordapp.com/oauth2/authorize?client_id=201492375653056512&scope=bot&permissions=8>`_
+and selecting the server from the drop-down box. After adding Octave to the server, connect to a voice chat channel and you can begin giving Octave commands from any chat channel.
+
+**Commands**
+************
+
+All commands for Octave us the prefix ``_``.
+
+|
+
++------------+--------------------------------------------+--------------------------------+
+| Name       | Usage                                      |Description                     |
++============+============================================+================================+
+| help       | ``_help [command]`` or ``_help``           |Displays the bot's list of      |
+|            |                                            |commands or info regarding other|
+|            |                                            |commands                        |
++------------+--------------------------------------------+--------------------------------+
+|play        |``_play [url|YouTube search]``              |Plays music in a voice channel  |
++------------+--------------------------------------------+--------------------------------+
+|stop        |``_stop``                                   |Stop and clear the music player |
++------------+--------------------------------------------+--------------------------------+
+|skip        |``_skip``                                   |Skip the current music track    |
++------------+--------------------------------------------+--------------------------------+
+|remove      |``_remove (first|last|all|start..end|#)``   |Remove a song from the queue    |
++------------+--------------------------------------------+--------------------------------+
+|move        |``_move``                                   |Move the bot to another channel |
++------------+--------------------------------------------+--------------------------------+
+|shuffle     |``_shuffle``                                +Shuffle the music queue         |
++------------+--------------------------------------------+--------------------------------+
+|nowplaying  |``_nowplaying``                             |Shows what's currently playing  |
++------------+--------------------------------------------+--------------------------------+
+|queue       |``_queue``                                  |Shows the music that's          |
+|            |                                            |currently queued                |
++------------+--------------------------------------------+--------------------------------+
+| restart    |``_restart``                                |Restart the current song        |
++------------+--------------------------------------------+--------------------------------+
+|repeat      |``_repeat (song, playlist, none)``          |Set if the music player should  |
+|            |                                            |repeat                          |
++------------+--------------------------------------------+--------------------------------+
+|volume      |``_volume (loudness %)``                    |Set the volume of the music     |
+|            |                                            |player                          |
++------------+--------------------------------------------+--------------------------------+
+|jump        |``_jump (to|forward|backward) (time)``      |Set the time marker of the music|
+|            |                                            |playback                        |
++------------+--------------------------------------------+--------------------------------+
+|bass        |``_bass``                                   |Boost the bass of the music     |
++------------+--------------------------------------------+--------------------------------+
+|radio       |``_radio (station name)|stop``              |Stream random songs from some   |
+|            |                                            |radio stations                  |
++------------+--------------------------------------------+--------------------------------+
+|cleanup     |``_cleanup``                                |Clear songs based on a specific |
+|            |                                            |user, duplicates, or if a user  |
+|            |                                            |left                            |
++------------+--------------------------------------------+--------------------------------+
+|lyrics      |``_lyrics (current|search <term>)``         |Looks up the lyrics of the      |
+|            |                                            |current playing song or of a    |
+|            |                                            |song of your choice             |
++------------+--------------------------------------------+--------------------------------+
+|filter      |``_filter``                                 |Apply audio filters to the      |
+|            |                                            |music such as speed and pitch   |
++------------+--------------------------------------------+--------------------------------+
+|youtube     |``_youtube (query...)``                     |Search and see YouTube results  |
++------------+--------------------------------------------+--------------------------------+
+|soundcloud  |``_soundcloud (query...)``                  |Search and see SoundCloud       |
+|            |                                            |results                         |
++------------+--------------------------------------------+--------------------------------+
+
+**Troubleshooting**
+*******************
+Use the command ``_help`` followed by any other command will bring up details on how to use the following command.
+You can also get support by going to the official Octave website `here <https://octave.gg/>`_.
+
+**Licensing**
+*************
+Octave is an open-source Discord bot and does not requiring any licensing to use.
+
